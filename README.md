@@ -9,11 +9,12 @@ tanvik02/tanvik02 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" width="240"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="2000"/>
 </div>
 
+
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/tanvi-k-01rk2002">
+  <a href="https://www.linkedin.com/in/tanvi-k-01rk2002/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
