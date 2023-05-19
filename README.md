@@ -44,9 +44,11 @@ You can click the Preview link to take a look at your changes.
   </a>
 </div>
 -->
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=tanvi02&style=flat-square&color=blue"  alt=""/ >
-</div>
+  <br><br><br>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 
 <h4>Languages and Tools:</h4>
 
