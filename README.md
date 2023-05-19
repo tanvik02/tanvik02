@@ -50,8 +50,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
 <h4>Languages and Tools:</h4>
-
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="80" height="80"/>&nbsp;
