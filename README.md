@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 >Currently Pursuing **B.Tech in Computer Science Engineering with specialization in Big Data Analytics**<br>
 >
->I am a **Full Stack Web Developer** , **an UI/UX Designer** and an **enthuistic learner**. <br />
+>I am a **Full Stack Web Developer** , **an UI/UX Designer** , **an Android Developer** and an **enthuistic learner**. <br />
 >
 >Till now I have learned various programming languages such as **C, C++, Python, Html, CSS, R** etc. and have worked with various programming tools such as **VSC, Pycharm, RStudio** and so on.<br />
 >
